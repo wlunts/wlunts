@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://factoryabc.com/about/index.html</loc>
+    
+    <lastmod>2026-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/product-inspection-service-china/index.html</loc>
+    
+    <lastmod>2026-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/2026/05/15/D0158/</loc>
     
     <lastmod>2026-06-29</lastmod>
@@ -23,15 +41,6 @@
     <loc>https://factoryabc.com/2021/12/09/D0039/</loc>
     
     <lastmod>2026-06-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/product-inspection-service-china/index.html</loc>
-    
-    <lastmod>2026-06-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://factoryabc.com/2026/06/28/D0159/</loc>
-    
-    <lastmod>2026-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/about/index.html</loc>
     
     <lastmod>2026-06-28</lastmod>
     
@@ -2108,41 +2108,6 @@
 
   
   <url>
-    <loc>https://factoryabc.com/tags/Stainless-steel-bottle/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/poor-polish/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/ball/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/sport/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/oversea/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/warming-health-wear/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2151,6 +2116,13 @@
   
   <url>
     <loc>https://factoryabc.com/tags/facemask/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Frozen-roasted-eel/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2171,35 +2143,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Exposed-primer/</loc>
+    <loc>https://factoryabc.com/tags/Stainless-steel-bottle/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/wood-bamboo-item/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/mirror/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/glass/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Frozen-roasted-eel/</loc>
+    <loc>https://factoryabc.com/tags/poor-polish/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2221,6 +2172,76 @@
   
   <url>
     <loc>https://factoryabc.com/tags/zinc-alloy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/high-humidity/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/mirror/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/glass/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/air-fryer/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/oven/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/flash-inside/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Poor-copper-electroplating/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/vacuum-bottle/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Exposed-primer/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/wood-bamboo-item/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2262,90 +2283,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/high-humidity/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Poor-copper-electroplating/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/vacuum-bottle/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/air-fryer/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/oven/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/flash-inside/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Nitrile-glove/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/dirty-mark/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/TPR/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Stress-ball/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Mobile-phone-lens/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/color-difference-wood/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/deviant-sewing/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2354,13 +2291,6 @@
   
   <url>
     <loc>https://factoryabc.com/tags/bag/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/wrinkle-mark-on-hat/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2416,6 +2346,55 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/Mobile-phone-lens/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/sport/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/oversea/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/wobble/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/wooden-box/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/color-difference-wood/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/uniform/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2437,14 +2416,28 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Broken-Popper/</loc>
+    <loc>https://factoryabc.com/tags/TPR/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/warp-popper/</loc>
+    <loc>https://factoryabc.com/tags/Stress-ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Nitrile-glove/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/dirty-mark/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2466,55 +2459,6 @@
   
   <url>
     <loc>https://factoryabc.com/tags/loose-lid-closing/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/wobble/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/wooden-box/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/sharp-flash/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/plastic-cup/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Furniture/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Rack/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Unfixed-anti-tip-buckle/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2556,14 +2500,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/part-not-work/</loc>
+    <loc>https://factoryabc.com/tags/wrinkle-mark-on-hat/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/light-not-flash/</loc>
+    <loc>https://factoryabc.com/tags/Broken-Popper/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/warp-popper/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2598,14 +2549,77 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Laundry-basket/</loc>
+    <loc>https://factoryabc.com/tags/sharp-flash/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/deviation-sewing/</loc>
+    <loc>https://factoryabc.com/tags/plastic-cup/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Furniture/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Rack/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Unfixed-anti-tip-buckle/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/part-not-work/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/light-not-flash/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Led-Torch/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/flash-residue/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Messenger-bag/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Velcro-patch-outside/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2633,6 +2647,20 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/Mobile-clip/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/mobile-holder/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/Wooden-burr/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2641,48 +2669,6 @@
   
   <url>
     <loc>https://factoryabc.com/tags/craft-item/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Led-Torch/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/flash-residue/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/crinkle-fabric/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/leather/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/ceramic-mug/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/pattern-peeled-off/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2703,14 +2689,28 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/laundry-basket/</loc>
+    <loc>https://factoryabc.com/tags/crinkle-fabric/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/longer-joint-fabric/</loc>
+    <loc>https://factoryabc.com/tags/leather/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Laundry-basket/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/deviation-sewing/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2731,28 +2731,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Mobile-clip/</loc>
+    <loc>https://factoryabc.com/tags/laundry-basket/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/mobile-holder/</loc>
+    <loc>https://factoryabc.com/tags/longer-joint-fabric/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Messenger-bag/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Velcro-patch-outside/</loc>
+    <loc>https://factoryabc.com/tags/slant-polyresin/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2767,6 +2760,41 @@
   
   <url>
     <loc>https://factoryabc.com/tags/aging/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/insect-killer/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/PVC-ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/poor-painting/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Poor-assembling/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/poor-packaging/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2794,21 +2822,35 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/slant-polyresin/</loc>
+    <loc>https://factoryabc.com/tags/nail-exposed/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/PVC-ball/</loc>
+    <loc>https://factoryabc.com/tags/frame-picture/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/poor-painting/</loc>
+    <loc>https://factoryabc.com/tags/scratch-on-plastic-pen/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/ceramic-mug/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/pattern-peeled-off/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2829,21 +2871,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/insect-killer/</loc>
+    <loc>https://factoryabc.com/tags/tumbler/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/nail-exposed/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/frame-picture/</loc>
+    <loc>https://factoryabc.com/tags/bottle/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2864,6 +2899,13 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/damaged-display-box/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/Poor-painting/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -2878,42 +2920,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Crack/</loc>
+    <loc>https://factoryabc.com/tags/cheap-quality-battery/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Horseshoe-Magnet/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/tumbler/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/bottle/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/metal-screen/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/poor-welding/</loc>
+    <loc>https://factoryabc.com/tags/flop-fish/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2934,21 +2948,35 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/scratch-on-plastic-pen/</loc>
+    <loc>https://factoryabc.com/tags/Crack/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Poor-assembling/</loc>
+    <loc>https://factoryabc.com/tags/Horseshoe-Magnet/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/poor-packaging/</loc>
+    <loc>https://factoryabc.com/tags/wall-clock/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/hanging-hole/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/wrong-position-of-small-decor-piece/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -2976,14 +3004,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/cheap-quality-battery/</loc>
+    <loc>https://factoryabc.com/tags/metal-screen/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/flop-fish/</loc>
+    <loc>https://factoryabc.com/tags/poor-welding/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/inconspicuous-fragile-label/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3004,14 +3039,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/wall-clock/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/hanging-hole/</loc>
+    <loc>https://factoryabc.com/tags/too-big-pack/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3032,49 +3060,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/damaged-display-box/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/wrong-position-of-small-decor-piece/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/inconspicuous-fragile-label/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/too-big-pack/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/foldable-storage/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/mirror-frame/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/buffer-space/</loc>
+    <loc>https://factoryabc.com/tags/scrape/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3102,35 +3088,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/loose-label/</loc>
+    <loc>https://factoryabc.com/tags/mirror-frame/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/blanket/</loc>
+    <loc>https://factoryabc.com/tags/buffer-space/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/reaction-glaze/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/zipper-raise/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/leg-friction/</loc>
+    <loc>https://factoryabc.com/tags/foldable-storage/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3151,7 +3123,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/scrape/</loc>
+    <loc>https://factoryabc.com/tags/reaction-glaze/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/zipper-raise/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3172,56 +3151,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/shorter-size/</loc>
+    <loc>https://factoryabc.com/tags/leg-friction/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/missing-part/</loc>
+    <loc>https://factoryabc.com/tags/loose-label/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/cloth-hanger/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/squish-ball/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/blurry/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/artificial-tree/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/rope-exposed/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/squish-ball-blows-off/</loc>
+    <loc>https://factoryabc.com/tags/blanket/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3242,14 +3186,28 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/TPR-squish-ball/</loc>
+    <loc>https://factoryabc.com/tags/artificial-tree/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/flow-mark/</loc>
+    <loc>https://factoryabc.com/tags/rope-exposed/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/squish-ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/blurry/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3270,21 +3228,28 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/triangle-makeup-bag/</loc>
+    <loc>https://factoryabc.com/tags/sillicone-face-brush/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/ceramic-label/</loc>
+    <loc>https://factoryabc.com/tags/sillicone-flash/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/ceramic-packaging/</loc>
+    <loc>https://factoryabc.com/tags/missing-part/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/cloth-hanger/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3299,6 +3264,27 @@
   
   <url>
     <loc>https://factoryabc.com/tags/leather-chair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/squish-ball-blows-off/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/TPR-squish-ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/flow-mark/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3326,28 +3312,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/sillicone-face-brush/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/sillicone-flash/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Hollaween/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/skull-drops/</loc>
+    <loc>https://factoryabc.com/tags/opening-is-non-circular/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3382,7 +3347,35 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/label-wrinkling/</loc>
+    <loc>https://factoryabc.com/tags/ceramic-label/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/ceramic-packaging/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/shorter-size/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Hollaween/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/skull-drops/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3396,48 +3389,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/hotel-toothbrush/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/opening-is-non-circular/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/bangle-deformation/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/jewelry/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/broken-hole/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/non-woven-storage/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/baby-playpen/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3445,28 +3396,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Squish-ball/</loc>
+    <loc>https://factoryabc.com/tags/label-wrinkling/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/TPR-toy/</loc>
+    <loc>https://factoryabc.com/tags/hotel-toothbrush/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/drawer-slip/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/cabinet/</loc>
+    <loc>https://factoryabc.com/tags/triangle-makeup-bag/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3487,35 +3431,42 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/bamboo-towel-holder/</loc>
+    <loc>https://factoryabc.com/tags/bangle-deformation/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/bamboo-hole-crank/</loc>
+    <loc>https://factoryabc.com/tags/jewelry/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/painting-peels-off/</loc>
+    <loc>https://factoryabc.com/tags/drawer-slip/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/wooden-dice/</loc>
+    <loc>https://factoryabc.com/tags/cabinet/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/squish-deformed-squish-ball/</loc>
+    <loc>https://factoryabc.com/tags/broken-hole/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/non-woven-storage/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3536,41 +3487,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/TPR-squish-bear/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/deform/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Fidget/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/product-inspection-service-China/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/assembly-defect/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/Aluminium-Green-House/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3585,14 +3501,63 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/metal-console/</loc>
+    <loc>https://factoryabc.com/tags/Squish-ball/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/temper-glass/</loc>
+    <loc>https://factoryabc.com/tags/TPR-toy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/squish-deformed-squish-ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Anisomerous/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Inflatable-cup-holder/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/painting-peels-off/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/wooden-dice/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/bamboo-towel-holder/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/bamboo-hole-crank/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3607,20 +3572,6 @@
   
   <url>
     <loc>https://factoryabc.com/tags/sticky-men/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/board-warp/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/console/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3662,14 +3613,63 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Anisomerous/</loc>
+    <loc>https://factoryabc.com/tags/board-warp/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Inflatable-cup-holder/</loc>
+    <loc>https://factoryabc.com/tags/console/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/TPR-squish-bear/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/deform/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/metal-console/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/temper-glass/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Fidget/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/product-inspection-service-China/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/assembly-defect/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3704,6 +3704,13 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/bubbles/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/Pencil-box/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3712,20 +3719,6 @@
   
   <url>
     <loc>https://factoryabc.com/tags/Asymmetric/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/accessory-pack-not-fixed/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/bubbles/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3746,13 +3739,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/floating-duct/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/plush-squish-ball/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3761,6 +3747,34 @@
   
   <url>
     <loc>https://factoryabc.com/tags/color-transferred/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/floating-duct/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/accessory-pack-not-fixed/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/warp/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/head-makeup-band/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3788,14 +3802,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Pop-ball/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/hook-deformed/</loc>
+    <loc>https://factoryabc.com/tags/ball-distorted/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3809,7 +3816,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/ball-distorted/</loc>
+    <loc>https://factoryabc.com/tags/Pop-ball/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/hook-deformed/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3830,41 +3844,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/TPR-noodles/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/length-inconsistent/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/loose-seal/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Dog-clothe/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/fabric-pilling/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/burrs/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3879,14 +3858,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Press-mark/</loc>
+    <loc>https://factoryabc.com/tags/loose-seal/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/inner-box/</loc>
+    <loc>https://factoryabc.com/tags/wallet/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3900,14 +3879,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/warp/</loc>
+    <loc>https://factoryabc.com/tags/TPR-noodles/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/wallet/</loc>
+    <loc>https://factoryabc.com/tags/length-inconsistent/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3928,6 +3907,48 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/Dog-clothe/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/fabric-pilling/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Press-mark/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/inner-box/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/travel-pouch/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/asymmetric/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/poor-sticker-affixion/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -3936,6 +3957,55 @@
   
   <url>
     <loc>https://factoryabc.com/tags/PVC-box-packaging/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/loop-deform/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Rough-printing-on-color-transition/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/metal-garden-shed/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/scratches/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/matte-lamination/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/slime-leakage/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/slime-bag/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -3963,104 +4033,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/scratches/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/matte-lamination/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Rough-printing-on-color-transition/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/head-makeup-band/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/metal-garden-shed/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/travel-pouch/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/asymmetric/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/fall-off/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/sugar-squish/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/loop-deform/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Stuffed-bun/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Dumpling/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/color-bleeding/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/sticky-TPR/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/color-box/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4075,28 +4047,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/garden-shed/</loc>
+    <loc>https://factoryabc.com/tags/impurity-painting/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/sharp-edge/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/ceramic-items/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/kitchen-item/</loc>
+    <loc>https://factoryabc.com/tags/oven-tray/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4124,14 +4082,42 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/slime-leakage/</loc>
+    <loc>https://factoryabc.com/tags/3D-printing/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/slime-bag/</loc>
+    <loc>https://factoryabc.com/tags/sharp-burrs/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/fall-off/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/sugar-squish/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/garden-shed/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/sharp-edge/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4153,6 +4139,104 @@
   
   <url>
     <loc>https://factoryabc.com/tags/holster/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/color-bleeding/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/sticky-TPR/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Stuffed-bun/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Dumpling/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/drop-test-failure/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/decor-clock/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/EVA-box/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/EVA-bag/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/EVA-packaging/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/ceramic-items/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/kitchen-item/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/bedding-item/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/pillow/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/curtain/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4187,62 +4271,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/impurity-painting/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/oven-tray/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/drop-test-failure/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/3D-printing/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/sharp-burrs/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/bedding-item/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/pillow/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/curtain/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/bamboo-board/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4257,7 +4285,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/decor-clock/</loc>
+    <loc>https://factoryabc.com/tags/non-woven/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/washing-liquid/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/pet-article/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4278,21 +4320,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/non-woven/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/thermal-insulation-pot/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/low-ticket-apparel/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4313,13 +4341,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/washing-liquid/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/plush-toy/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4334,42 +4355,28 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/EVA-box/</loc>
+    <loc>https://factoryabc.com/tags/selfie-LED-Ring-Light/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/EVA-bag/</loc>
+    <loc>https://factoryabc.com/tags/Mobile-Lens/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/EVA-packaging/</loc>
+    <loc>https://factoryabc.com/tags/Bamboo-storage/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/cat-tree-paw-mate/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/cat-house/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/pet-article/</loc>
+    <loc>https://factoryabc.com/tags/low-ticket-apparel/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4397,6 +4404,48 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/Building-block/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Paper-craft/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/wood-fiber-cutting-board/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/candle/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/birthday-candle/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Canvas-bag/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/Jewelry/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4411,21 +4460,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/selfie-LED-Ring-Light/</loc>
+    <loc>https://factoryabc.com/tags/cat-tree-paw-mate/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Mobile-Lens/</loc>
+    <loc>https://factoryabc.com/tags/cat-house/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Building-block/</loc>
+    <loc>https://factoryabc.com/tags/stand-mirror-frame/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4446,34 +4495,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Bamboo-storage/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Canvas-bag/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/wood-fiber-cutting-board/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Paper-craft/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/sweater/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4488,14 +4509,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/candle/</loc>
+    <loc>https://factoryabc.com/tags/metal-crafts/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/birthday-candle/</loc>
+    <loc>https://factoryabc.com/tags/bouncy-ball/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4523,13 +4544,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/metal-crafts/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/play-sand/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4544,7 +4558,28 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/bouncy-ball/</loc>
+    <loc>https://factoryabc.com/tags/resin-craft/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/polyresin-craft/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/enameled-matal-bracelet/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Christmas-tree/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4572,34 +4607,6 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/resin-craft/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/polyresin-craft/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Christmas-tree/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/stand-mirror-frame/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://factoryabc.com/tags/storage-bag/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -4608,6 +4615,27 @@
   
   <url>
     <loc>https://factoryabc.com/tags/car-organizer-bag/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/PVC-boot/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/kids-boot/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Kaleidoscope/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4635,70 +4663,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/enameled-matal-bracelet/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Kaleidoscope/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/PVC-boot/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/kids-boot/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Non-woven-storage/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Chalk/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/stationery-box/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Oxford-fabric-storage/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/mosquito-net/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Slime/</loc>
+    <loc>https://factoryabc.com/tags/children-scooter/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4712,7 +4677,14 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Pencil/</loc>
+    <loc>https://factoryabc.com/tags/mosquito-net/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Chalk/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4733,28 +4705,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/TPR-Fidget/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/plug/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/extension-cord/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/battledore/</loc>
+    <loc>https://factoryabc.com/tags/Oxford-fabric-storage/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4775,7 +4726,49 @@
   </url>
   
   <url>
+    <loc>https://factoryabc.com/tags/Non-woven-storage/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/stationery-box/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/plug/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/extension-cord/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://factoryabc.com/tags/hair-band/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/TPR-Fidget/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/battledore/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4796,14 +4789,7 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Greeting-card/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Paper-bag/</loc>
+    <loc>https://factoryabc.com/tags/Slime/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4818,76 +4804,6 @@
   
   <url>
     <loc>https://factoryabc.com/tags/travel-bag/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Chaise-lounge/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/outdoor-chair/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/3D-Printing-Toy/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/Qinteng-Plastic-Toys/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/inspection-in-factory/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/mildew/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/soft-wood/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/shirt/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/children-tent/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://factoryabc.com/tags/indoor-tent/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4915,21 +4831,91 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/BBQ/</loc>
+    <loc>https://factoryabc.com/tags/Pencil/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Gas-BBQ/</loc>
+    <loc>https://factoryabc.com/tags/Greeting-card/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/Charcoal-BBQ/</loc>
+    <loc>https://factoryabc.com/tags/Paper-bag/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/shirt/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/3D-Printing-Toy/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Qinteng-Plastic-Toys/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/inspection-in-factory/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Chaise-lounge/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/outdoor-chair/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/mildew/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/soft-wood/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/children-tent/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/indoor-tent/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4950,7 +4936,21 @@
   </url>
   
   <url>
-    <loc>https://factoryabc.com/tags/children-scooter/</loc>
+    <loc>https://factoryabc.com/tags/BBQ/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Gas-BBQ/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://factoryabc.com/tags/Charcoal-BBQ/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -4959,14 +4959,14 @@
 
   
   <url>
-    <loc>https://factoryabc.com/categories/Inspection-finding/</loc>
+    <loc>https://factoryabc.com/categories/Factory/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://factoryabc.com/categories/Factory/</loc>
+    <loc>https://factoryabc.com/categories/Inspection-finding/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
